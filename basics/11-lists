@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ular . .. /boot
+ls -1la . .. /boot
