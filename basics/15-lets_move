@@ -1,0 +1,3 @@
+#!/bin/bash
+mv /holbertonschool-shell/basics/[A-Z]* /tmp/u/
+
