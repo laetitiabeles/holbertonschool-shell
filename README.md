@@ -1,1 +1,1 @@
-This repository is about my fifth Holberton Project 'Shell' 
+Script 1 prints hello world 
